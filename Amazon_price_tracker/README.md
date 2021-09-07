@@ -2,8 +2,8 @@
 
 ### This small project helps trach price of your desired product on amazon and alerts you via email and text message when the price of the product goes beyond your set limit.
 
-The project is built using python an Selenium.<br><br>
-**Twilio** api is used to send text message notifications and **smtplib** is used to send email notifications.
+The project is built using python and Selenium.<br><br>
+```Twilio``` api is used to send text message notifications and ```smtplib``` is used to send email notifications.
 
  ---
 
